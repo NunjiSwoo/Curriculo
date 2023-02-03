@@ -1,0 +1,76 @@
+.Cab{
+    height: 10%;
+    width: 103%;
+    display: flex;
+    background-color: rgb(18, 34, 82);
+    color: aliceblue;
+    text-align: center;
+    margin-top: -1%;
+    margin-left: -1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.Home{
+    width: 15%;
+    height: 10%;
+    margin-top: 15px;
+}
+.Nome{
+    width:60%;
+    height: 10%;
+}
+.Sobre{
+    width: 25%;
+    height: 10%;
+    margin-top: 15px
+}
+.BackGround{
+    width: 102%;
+    height: 590px;
+    margin-bottom: -1%;
+    margin-left: -1%;
+    background-image: radial-gradient(rgb(44, 90, 228), black);
+    position: absolute;
+    z-index: 0;
+}
+.Text{
+    
+    height: 450px;
+    margin-top: 4%;
+    margin-left: 18%;
+    width: 60%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-justify: inter-word;
+}
+.Photo{
+    height: 200px;
+    width: 152px;
+    background-color: rgb(44, 90, 228);
+    position: absolute;
+    z-index: 1;
+    box-shadow: 40px 40px rgb(24, 50, 126);
+}
+img {
+    height: 178px;
+    width: 130px;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.Texts{
+    height: 442px;
+    width: 560px;
+    margin-left: 152px;
+    background-color: rgb(44, 90, 228);
+    position: absolute;
+    z-index: 1;
+    box-shadow: 40px 40px rgb(24, 50, 126);
+}
+.IconP{
+    margin-top: -1%;
+    height: 100px;
+    width: 100px;
+}
+.aaa{
+    border-radius: 50%;
+}
